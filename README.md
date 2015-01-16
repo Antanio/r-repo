@@ -1,2 +1,2 @@
 # r-repo
-Repositoru for R scripts
+Repository for R scripts
